@@ -49222,7 +49222,7 @@ au(){return new A.Ee($.abW(),B.l)}}
 A.Ee.prototype={
 aS(){this.bq()},
 H(a,b){var s=this,r=null,q=t.p
-return A.a3w(A.a25(B.rH),A.iu(A.jX(A.a([A.a6r(s.Rm(),1),A.jX(A.a([A.ji("The score "+s.e,r),A.Sq(A.a([s.AR(b,B.cr,"Animals"),s.AR(b,B.cs,"Birds")],q),B.aG,B.eJ,B.aw)],q),B.aG,B.bi,B.aw)],q),B.aG,B.eJ,B.aw),r,r),r)},
+return A.a3w(A.a25(B.rH),A.iu(A.jX(A.a([A.a6r(s.Rm(),1),A.jX(A.a([A.ji("The score "+s.e,r),A.Sq(A.a([s.AR(b,B.cr,"Land Animal"),s.AR(b,B.cs,"Air Animal")],q),B.aG,B.eJ,B.aw)],q),B.aG,B.bi,B.aw)],q),B.aG,B.eJ,B.aw),r,r),r)},
 Rm(){var s=this.d,r=A.ab(s).j("aw<1,k7>")
 return A.nt(B.L,A.as(new A.aw(s,new A.XT(),r),!0,r.j("b6.E")),B.bu)},
 AR(a,b,c){var s=A.b7(a)
@@ -54208,7 +54208,7 @@ q=$.b2()
 p=q.gBm(q)
 $.aC.toString
 return new A.tI(1/q.gBm(q),1/(0.05*p))})
-s($,"ap4","abW",()=>A.a([A.oH("\ud83c\udf5e",B.cr),A.oH("BIRD",B.cs),A.oH("BIRD2",B.cs),A.oH("\ud83c\udf55",B.cr),A.oH("BIRD3",B.cs),A.oH("\u2764",B.cr)],A.Q("q<d8>")))})();(function nativeSupport(){!function(){var s=function(a){var m={}
+s($,"ap4","abW",()=>A.a([A.oH("Lion",B.cr),A.oH("Owl",B.cs),A.oH("Pigeon",B.cs),A.oH("Horse",B.cr),A.oH("Chicken",B.cs),A.oH("Cow",B.cr)],A.Q("q<d8>")))})();(function nativeSupport(){!function(){var s=function(a){var m={}
 m[a]=1
 return Object.keys(hunkHelpers.convertToFastObject(m))[0]}
 v.getIsolateTag=function(a){return s("___dart_"+a+v.isolateTag)}
